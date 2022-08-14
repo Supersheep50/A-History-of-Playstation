@@ -1,0 +1,38 @@
+/* Headers and Nav bar */
+
+header { 
+    background-color: #00439c;
+}
+
+#header-image {
+    width: 100%;
+    background:url('../images/playstation-header.jpeg');
+    height: 600px;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: arial, sans-serif;
+}
+
+
+
+
+/* Paragraph Styling */
+p {
+    font-family: Arial,sans-serif;
+    color: #1f1f1f;
+}
+
+/* PS1 Info Section */
+#ps1 {
+
+    width: 100%;
+
+}
+
+/* Footer Styling */
+footer {
+    background-color: #00439c;
+}
