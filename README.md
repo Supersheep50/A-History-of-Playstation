@@ -120,6 +120,8 @@ The project was deployed to GitHub Pages using the following steps...
 
 ## Credits
 
+- Image for PlayStation 1 was retrieved from [here](https://commons.wikimedia.org/wiki/File:PSX-Console-wController.jpg)
+
 ### Code
 
 -   
