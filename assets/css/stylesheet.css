@@ -6,8 +6,8 @@ header {
 
 #header-image {
     width: 100%;
-    background:url(/assets/images/Playstation-logo.webp);
-    height: 400px;
+    background:url(/assets/images/playstation-logo-blue.webp);
+    height: 600px;
     background-repeat: no-repeat;
     background-position: center;
     
@@ -53,16 +53,26 @@ p {
     text-align: left;
     width: 30%;
     display: inline-block;
+    clear: both;
+    margin-left: 30px;
 }
 
 
 #ps1-logo {
 
-    width: 50%;
-    display: inline-block;
-
+    width: 30%;
+    float: right;
+    clear: both;
+    
 }
 
+#ps1-logo img {
+
+    width: 150%;
+    float: right;
+    clear: both;
+    margin-right: 30px;
+}
 
 /*Best Games Section */
 
