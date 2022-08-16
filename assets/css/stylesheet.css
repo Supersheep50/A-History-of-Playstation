@@ -7,7 +7,7 @@ header {
 #header-image {
     width: 100%;
     background:url(/assets/images/playstation-logo-blue.webp);
-    height: 600px;
+    height: 500px;
     background-repeat: no-repeat;
     background-position: center;
     
@@ -135,4 +135,26 @@ p {
 footer {
     background-color: #00439c;
     display: block;
+}
+
+
+/* Newsletter Styling */
+
+#newsletter {
+
+    text-align: center;
+
+}
+
+/* Social Links */
+
+#social-links {
+
+    text-align: center;
+    text-decoration-style: none;
+   
+}
+
+#social-links li {
+    display: inline;
 }
