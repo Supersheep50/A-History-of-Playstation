@@ -14,9 +14,23 @@ header {
 h1 {
     color: #ffffff;
     font-family: arial, sans-serif;
+    padding: 0;
+    margin-top: 0;
 }
 
+#nav-bar {
+    color: #ffffff;
+    font-size: 120%;
+    letter-spacing: 4px;
+    }
 
+#nav-bar li {
+    float: right;
+    margin-right: 30px;
+    margin-top: 0;
+    list-style-type: none;
+    
+}
 
 
 /* Paragraph Styling */
@@ -32,7 +46,44 @@ p {
 
 }
 
+
+/*Best Games Section */
+
+#best-selling-games {
+
+   
+}
+
+
+#game-left {
+
+    float: left;
+    width: 33%;
+    margin-left: 30px;
+    display: block;
+    
+}
+
+#game-right {
+
+    float: right;
+    width: 33%;
+    display: block;
+   
+}
+
+#game-middle {
+
+    width: 30%;
+    margin: 0 auto;
+    display: inline-block;
+    clear: both;
+
+}
+
+
 /* Footer Styling */
 footer {
     background-color: #00439c;
+    display: block;
 }

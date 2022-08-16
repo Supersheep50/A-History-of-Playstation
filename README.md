@@ -123,6 +123,7 @@ The project was deployed to GitHub Pages using the following steps...
 - Image for PlayStation 1 was retrieved from [here](https://commons.wikimedia.org/wiki/File:PSX-Console-wController.jpg)
 - Introduction and best-selling videogame information found [here](https://en.wikipedia.org/wiki/PlayStation_(console))
 - Image converting tool can be found [here](https://cloudconvert.com/avif-to-webp)
+- Image for Gran Turismo 1 logo can be found [here](https://strategywiki.org/wiki/Gran_Turismo)
 
 ### Code
 
