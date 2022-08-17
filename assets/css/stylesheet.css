@@ -1,33 +1,23 @@
 /* Headers and Nav bar */
 
-header {
-    background-color: #00439c;
-}
-
-#header-image {
-    width: 100%;
-    background: url(/assets/images/playstation-logo-blue.webp);
-    height: 500px;
-    background-repeat: no-repeat;
-    background-position: center;
-
-}
-
-h1 {
-    color: #ffffff;
-    font-family: arial, sans-serif;
-    padding: 0;
-    margin-top: 0;
+header h1 {
+    color: #1f1f1f;
+    font-family: 'Arial', sans-serif;
+    clear: both;
     display: inline-block;
+    margin-top: 10px;
+    padding: 0;
+
 }
 
 #nav-bar {
-    color: #ffffff;
+    color: #1f1f1f;
     font-size: 120%;
+    font-family: 'Arial', sans-serif;
     letter-spacing: 4px;
     margin-top: 0px;
-    display: inline-block;
     float: right;
+
 }
 
 #nav-bar li {
@@ -35,15 +25,58 @@ h1 {
     margin-right: 30px;
     list-style-type: none;
 
+}
 
+#header-image {
+    width: 100%;
+    background: url(/assets/images/playstation-logo-dark.jpeg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center 75%;
+
+
+}
+
+#header-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+
+#intro-overlay {
+    font-size: 12px;
+    font-family: 'Arial', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 300px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: black;
+    bottom: 350px;
+    left: 30px;
+    position: absolute;
+
+}
+
+#intro-overlay p,
+#intro-overlay h2 {
+    color: #ffffff;
+}
+
+/*Intro Section */
+
+#intro {
+
+    margin-bottom: 60px;
+    padding: 30px;
 }
 
 
 /* Paragraph Styling */
-p {
-    font-family: Arial, sans-serif;
-    color: #1f1f1f;
-}
+
 
 /* PS1 Info Section */
 
@@ -60,7 +93,7 @@ p {
 
 #ps1-logo {
 
-    width: 30%;
+    width: 25%;
     float: right;
     clear: both;
 
