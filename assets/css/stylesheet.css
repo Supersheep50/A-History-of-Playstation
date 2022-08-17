@@ -1,4 +1,8 @@
-/* Headers and Nav bar */
+/* Header and Nav bar */
+body {
+
+    margin: 0;
+}
 
 header h1 {
     color: #1f1f1f;
@@ -27,13 +31,16 @@ header h1 {
 
 }
 
+
+/* Header image and overlay text */
+
 #header-image {
     width: 100%;
     background: url(/assets/images/playstation-logo-dark.jpeg);
     height: 600px;
     background-repeat: no-repeat;
     background-position: center 75%;
-
+    margin: 0;
 
 }
 
@@ -43,20 +50,21 @@ header h1 {
     overflow: hidden;
     position: relative;
 
+
 }
 
 #intro-overlay {
-    font-size: 12px;
+    font-size: 20px;
     font-family: 'Arial', sans-serif;
     text-transform: uppercase;
-    letter-spacing: 4px;
-    width: 300px;
+    letter-spacing: 2px;
+    width: 500px;
     height: 200px;
     padding-top: 40px;
     padding-left: 10px;
     background-color: black;
-    bottom: 350px;
-    left: 30px;
+    bottom: 325px;
+    left: 375px;
     position: absolute;
 
 }
@@ -65,17 +73,6 @@ header h1 {
 #intro-overlay h2 {
     color: #ffffff;
 }
-
-/*Intro Section */
-
-#intro {
-
-    margin-bottom: 60px;
-    padding: 30px;
-}
-
-
-/* Paragraph Styling */
 
 
 /* PS1 Info Section */
@@ -88,6 +85,7 @@ header h1 {
     display: inline-block;
     clear: both;
     margin-left: 30px;
+    font-family: Arial, sans-serif;
 }
 
 
@@ -112,6 +110,11 @@ header h1 {
 #best-selling-games {
 
     display: block;
+    font-family: arial, sans-serif;
+    background-color: navy;
+    color: white;
+    padding-left: 30px;
+    padding-top: 2px;
 }
 
 
@@ -122,6 +125,7 @@ header h1 {
     margin-left: 30px;
     display: block;
     text-align: center;
+    font-family: arial, sans-serif;
 
 
 }
@@ -132,6 +136,7 @@ header h1 {
     width: 33%;
     display: block;
     text-align: center;
+    font-family: arial, sans-serif;
 
 
 }
@@ -143,6 +148,7 @@ header h1 {
     display: inline-block;
     clear: both;
     text-align: center;
+    font-family: arial, sans-serif;
 
 
 }
@@ -166,8 +172,11 @@ header h1 {
 
 /* Footer Styling */
 footer {
-    background-color: #00439c;
+    background-color: black;
     display: block;
+    color: white;
+    font-family: arial, sans-serif;
+
 }
 
 
@@ -177,6 +186,10 @@ footer {
 
     text-align: center;
 
+}
+
+input {
+    display: block;
 }
 
 /* Social Links */
