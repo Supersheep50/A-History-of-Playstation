@@ -31,6 +31,15 @@ header h1 {
 
 }
 
+#nav-bar a {
+
+    color: inherit;
+    text-decoration: none;
+}
+
+#nav-bar a:hover {
+    color: red;
+}
 
 /* Header image and overlay text */
 
