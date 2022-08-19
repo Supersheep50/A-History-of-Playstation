@@ -6,7 +6,7 @@ body {
 
 header h1 {
     color: #1f1f1f;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     clear: both;
     display: inline-block;
     margin-top: 10px;
@@ -17,7 +17,7 @@ header h1 {
 #nav-bar {
     color: #1f1f1f;
     font-size: 120%;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     letter-spacing: 4px;
     margin-top: 0px;
     float: right;
@@ -64,7 +64,7 @@ header h1 {
 
 #intro-overlay {
     font-size: 20px;
-    font-family: 'Arial', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     width: 500px;
@@ -93,8 +93,8 @@ header h1 {
     width: 30%;
     display: inline-block;
     clear: both;
-    margin-left: 30px;
-    font-family: Arial, sans-serif;
+    margin-left: 50px;
+    font-family: 'Ubuntu', sans-serif;
     padding: 30px;
 
 }
@@ -114,7 +114,7 @@ header h1 {
     width: 150%;
     float: right;
     clear: both;
-    margin-right: 30px;
+    margin-right: 50px;
 }
 
 /*Best Games Section */
@@ -122,7 +122,7 @@ header h1 {
 #best-selling-games {
 
     display: block;
-    font-family: arial, sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     background-color: navy;
     color: white;
     padding: 30px;
@@ -136,7 +136,7 @@ header h1 {
     margin-left: 30px;
     display: block;
     text-align: center;
-    font-family: arial, sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 
 
 }
@@ -147,7 +147,7 @@ header h1 {
     width: 33%;
     display: block;
     text-align: center;
-    font-family: arial, sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 
 
 }
@@ -159,7 +159,7 @@ header h1 {
     display: inline-block;
     clear: both;
     text-align: center;
-    font-family: arial, sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 
 
 }
@@ -186,7 +186,7 @@ footer {
     background-color: black;
     display: block;
     color: white;
-    font-family: arial, sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 
 }
 
@@ -200,9 +200,8 @@ footer {
 
 }
 
-input {
-    display: block;
-}
+#sign-up-button {}
+
 
 /* Social Links */
 
