@@ -41,17 +41,34 @@ header h1 {
     color: red;
 }
 
+.home {
+    border-bottom: #1f1f1f solid;
+}
+
 /* Header image and overlay text */
 
 #header-image {
     width: 100%;
     background: url(/assets/images/playstation-logo-dark.jpeg);
     height: 600px;
-    background-repeat: no-repeat;
     background-position: center 75%;
-    margin: 0;
+    animation-name: ps-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
 
 }
+
+@keyframes ps-zoom {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
+
 
 #header-outer {
     height: 600px;
@@ -93,7 +110,7 @@ header h1 {
     width: 30%;
     display: inline-block;
     clear: both;
-    margin-left: 50px;
+    margin-left: 80px;
     font-family: 'Ubuntu', sans-serif;
     padding: 30px;
 
@@ -106,6 +123,7 @@ header h1 {
     float: right;
     clear: both;
     padding: 30px;
+    margin-right: 20px;
 
 }
 
@@ -114,7 +132,7 @@ header h1 {
     width: 150%;
     float: right;
     clear: both;
-    margin-right: 50px;
+    margin-right: 80px;
 }
 
 /*Best Games Section */
@@ -128,6 +146,11 @@ header h1 {
     padding: 30px;
 }
 
+#best-selling-games h3 {
+    margin-top: 0px;
+
+
+}
 
 #game-left {
 
@@ -137,7 +160,7 @@ header h1 {
     display: block;
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
-
+    margin: 0 auto;
 
 }
 
@@ -148,6 +171,7 @@ header h1 {
     display: block;
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
+    margin: 0 auto;
 
 
 }
@@ -160,6 +184,7 @@ header h1 {
     clear: both;
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
+
 
 
 }
@@ -200,7 +225,17 @@ footer {
 
 }
 
-#sign-up-button {}
+#newsletter h2 {
+
+    margin-top: 0px;
+}
+
+.sign-up-button {
+
+
+    background-color: yellow;
+
+}
 
 
 /* Social Links */
