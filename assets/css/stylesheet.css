@@ -95,6 +95,8 @@ header h1 {
     clear: both;
     margin-left: 30px;
     font-family: Arial, sans-serif;
+    padding: 30px;
+
 }
 
 
@@ -103,6 +105,7 @@ header h1 {
     width: 25%;
     float: right;
     clear: both;
+    padding: 30px;
 
 }
 
@@ -122,8 +125,7 @@ header h1 {
     font-family: arial, sans-serif;
     background-color: navy;
     color: white;
-    padding-left: 30px;
-    padding-top: 2px;
+    padding: 30px;
 }
 
 
@@ -194,6 +196,7 @@ footer {
 #newsletter {
 
     text-align: center;
+    padding: 30px;
 
 }
 
@@ -207,9 +210,16 @@ input {
 
     text-align: center;
     text-decoration-style: none;
+    letter-spacing: 20px;
 
 }
 
 #social-links li {
     display: inline;
+}
+
+#copyright {
+
+    font-size: 15px;
+    text-align: center;
 }
