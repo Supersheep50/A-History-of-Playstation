@@ -45,7 +45,7 @@ header h1 {
     border-bottom: #1f1f1f solid;
 }
 
-/* Header image and overlay text */
+/* Header image and overlay text PS1 page */
 
 #header-image {
     width: 100%;
@@ -209,7 +209,6 @@ header h1 {
 }
 
 
-
 /* Footer Styling */
 footer {
     background-color: black;
@@ -260,4 +259,40 @@ footer {
 
     font-size: 15px;
     text-align: center;
+}
+
+/* PS2 Styling */
+
+#ps2-info {
+
+    text-align: left;
+    width: 30%;
+    display: inline-block;
+    clear: both;
+    margin-left: 500px;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 30px;
+    border: navy 4px solid;
+    border-radius: 50px;
+
+
+}
+
+
+#ps2-logo {
+
+    width: 25%;
+    float: left;
+    clear: both;
+    padding: 30px;
+    margin-left: 20px;
+
+}
+
+#ps2-logo img {
+
+    width: 150%;
+    float: left;
+    clear: both;
+    margin-left: 80px;
 }

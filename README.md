@@ -126,6 +126,7 @@ The project was deployed to GitHub Pages using the following steps...
 - Image converting tool can be found [here](https://cloudconvert.com/avif-to-webp)
 - Image for Gran Turismo 1 logo can be found [here](https://strategywiki.org/wiki/Gran_Turismo)
 - Image for Final Fantasy 7 logo can be found [here](https://www.mobygames.com/game/final-fantasy-vii)
+- Image for PlayStation 2 can be found [here] (https://www.cbr.com/playstation-2-bestselling-console/)
 
 ### Code
 
