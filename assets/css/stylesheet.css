@@ -139,7 +139,7 @@ header h1 {
     margin-right: 80px;
 }
 
-/*Best Games Section */
+/*Best Games Section PS1 */
 
 #best-selling-games {
 
@@ -273,6 +273,7 @@ footer {
     width: 30%;
     display: inline-block;
     clear: both;
+    margin-top: 30px;
     margin-left: 500px;
     font-family: 'Ubuntu', sans-serif;
     padding: 30px;
@@ -299,4 +300,84 @@ footer {
     float: left;
     clear: both;
     margin-left: 80px;
+}
+
+#grand-theft-auto {
+
+    width: 230px;
+}
+
+#metal-gear-solid {
+
+    width: 200px;
+}
+
+#tekken-5 {
+
+    width: 200px;
+}
+
+
+/* PS3 Styling */
+
+#the-last-of-us {
+
+    width: 200px;
+}
+
+#uncharted {
+
+    width: 200px;
+}
+
+#call-of-duty {
+
+    width: 200px;
+}
+
+/* PS4 Styling */
+
+#ps4-info {
+
+    text-align: left;
+    width: 30%;
+    display: inline-block;
+    clear: both;
+    margin-top: 30px;
+    margin-left: 150px;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 30px;
+    border: navy 4px solid;
+    border-radius: 50px;
+}
+
+#god-of-war {
+
+    width: 200px;
+}
+
+#witcher {
+
+    width: 200px;
+}
+
+#the-last-of-us-2 {
+
+    width: 200px;
+}
+
+
+#elden-ring {
+
+    width: 200px;
+}
+
+#spider-man {
+
+    width: 200px;
+}
+
+#stray {
+
+    width: 200px;
 }
