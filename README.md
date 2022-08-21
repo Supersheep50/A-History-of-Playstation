@@ -16,19 +16,21 @@ Each section will also include some examples of the best selling games for each 
 
     -   #### Returning Visitor Goals
 
-        1. 
+        1. With the newsletter making me come back to the website on a frequent basis I would hope to see information and sections added to the website. I would also like to use the website as a resource when purchasing any of the consoles or trying to improve my knowledge on gaming history. I would expect links in the newsletter to bring me back to the wesbite. 
 
     -   #### Frequent User Goals
-        1. As a frequent viewer I 
+        1. As a frequent user I would be returning to the website to increase my gaming knowledge. Learning more and more about past Playstation consoles and how they've changed over the years. 
 
 -   ### Design
 
     -   #### Colour Scheme
-        -   
+        - The idea behind the colour scheme was to include as many of the prime Playstation logo colours as possible. I found the navy contrasted well against the black of the header background and the PS logo itself.   
+
     -   #### Typography
+        - Ubuntu and Sans-serif were chosen as I felt they had a videogame feel to them. Similiar to the type of font you'd find in many modern videogames today. They felt close to the font used by Playstation on many of their own websites. 
 
     -   #### Imagery
-        -   
+        -  The header that was chosen is an iconic image of the PS logo on a black backdrop. The logo instills a particular sens of nostalgia for me and hopefully vistors to the site. I have also added photos of each of the consoles and their normal (not slim) versions. This gives users a better idea of the the info text is talking about, especially if they are not familiar with the consoles. Images have also been added to each of the best selling games for each console. I've used the cover art for the games as they add a great deal of colour to the website. 
 
 *   ### Wireframes
 
@@ -61,15 +63,15 @@ Each section will also include some examples of the best selling games for each 
 ### Frameworks, Libraries & Programs Used
 
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Josefin Sans' and 'Montserrat' fonts into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Ubuntu'font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add social media icons for aesthetic and UX purposes.
+    - Font Awesome was used on all pages throughout the website to add social media icons and logos for aesthetic and UX purposes.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/StephHjar/dublin-book-club/tree/main/assets/readme) during the design process.
+    - Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
 

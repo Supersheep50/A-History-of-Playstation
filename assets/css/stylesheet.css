@@ -1,6 +1,5 @@
 /* Header and Nav bar */
 body {
-
     margin: 0;
 }
 
@@ -11,7 +10,6 @@ header h1 {
     display: inline-block;
     margin-top: 10px;
     padding: 0;
-
 }
 
 #nav-bar {
@@ -21,14 +19,12 @@ header h1 {
     letter-spacing: 4px;
     margin-top: 0px;
     float: right;
-
 }
 
 #nav-bar li {
     float: right;
     margin-right: 30px;
     list-style-type: none;
-
 }
 
 #nav-bar a {
@@ -55,7 +51,6 @@ header h1 {
     animation-name: ps-zoom;
     animation-duration: 3s;
     animation-fill-mode: forwards;
-
 }
 
 @keyframes ps-zoom {
@@ -75,8 +70,6 @@ header h1 {
     width: 100%;
     overflow: hidden;
     position: relative;
-
-
 }
 
 #intro-overlay {
@@ -92,7 +85,6 @@ header h1 {
     bottom: 325px;
     left: 375px;
     position: absolute;
-
 }
 
 #intro-overlay p,
@@ -101,9 +93,9 @@ header h1 {
 }
 
 
-/* PS1 Info Section */
+/* PS1,PS2,PS3 Styling */
 
-#ps1-info {
+#ps1-ps3-ps4-info {
     text-align: left;
     width: 30%;
     display: inline-block;
@@ -116,28 +108,24 @@ header h1 {
 }
 
 
-#ps1-logo {
-
+#ps1-ps3-ps4-logo {
     width: 25%;
     float: right;
     clear: both;
     padding: 30px;
     margin-right: 20px;
-
 }
 
-#ps1-logo img {
-
+#ps1-ps3-ps4-logo img {
     width: 150%;
     float: right;
     clear: both;
     margin-right: 80px;
 }
 
-/*Best Games Section PS1 */
+/*Best Games Section Styling all consoles */
 
 #best-selling-games {
-
     display: block;
     font-family: 'Ubuntu', sans-serif;
     background-color: navy;
@@ -147,12 +135,9 @@ header h1 {
 
 #best-selling-games h3 {
     margin-top: 0px;
-
-
 }
 
 #game-left {
-
     float: left;
     width: 33%;
     display: block;
@@ -160,11 +145,9 @@ header h1 {
     font-family: 'Ubuntu', sans-serif;
     margin: 0 auto;
     font-style: italic;
-
 }
 
 #game-right {
-
     float: right;
     width: 33%;
     display: block;
@@ -172,13 +155,9 @@ header h1 {
     font-family: 'Ubuntu', sans-serif;
     margin: 0 auto;
     font-style: italic;
-
-
-
 }
 
 #game-middle {
-
     width: 30%;
     margin: 0 auto;
     display: inline-block;
@@ -186,68 +165,55 @@ header h1 {
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
     font-style: italic;
-
-
-
 }
 
+/*PS1 Games Styling*/
+
 #gran-turismo-1 {
-
     width: 30%;
-
 }
 
 #final-fantasy-7 {
-
     width: 38%;
 }
 
 #gran-turismo-2 {
-
     width: 30%;
 }
 
 
 /* Footer Styling */
+
 footer {
     background-color: black;
     display: block;
     color: white;
     font-family: 'Ubuntu', sans-serif;
-
 }
 
 
 /* Newsletter Styling */
 
 #newsletter {
-
     text-align: center;
     padding: 30px;
-
 }
 
 #newsletter h2 {
-
     margin-top: 0px;
 }
 
 .sign-up-button {
-
-
     background-color: yellow;
-
 }
 
 
 /* Social Links */
 
 #social-links {
-
     text-align: center;
     text-decoration-style: none;
     letter-spacing: 20px;
-
 }
 
 #social-links li {
@@ -255,15 +221,13 @@ footer {
 }
 
 #copyright {
-
     font-size: 15px;
     text-align: center;
 }
 
-/* PS2 Styling */
+/* PS2 & PS5 Styling */
 
-#ps2-info {
-
+#ps2-ps5-info {
     text-align: left;
     width: 30%;
     display: inline-block;
@@ -274,105 +238,77 @@ footer {
     padding: 30px;
     border: navy 4px solid;
     border-radius: 50px;
-
-
 }
 
 
-#ps2-logo {
-
+#ps2-ps5-logo {
     width: 25%;
     float: left;
     clear: both;
     padding: 30px;
     margin-left: 20px;
-
 }
 
-#ps2-logo img {
-
+#ps2-ps5-logo img {
     width: 150%;
     float: left;
     clear: both;
     margin-left: 80px;
 }
 
-#grand-theft-auto {
+/*PS2 Games Styling*/
 
+#grand-theft-auto {
     width: 230px;
 }
 
 #metal-gear-solid {
-
     width: 200px;
 }
 
 #tekken-5 {
-
     width: 200px;
 }
 
 
-/* PS3 Styling */
+/* PS3 Games Styling */
 
 #the-last-of-us {
-
     width: 200px;
 }
 
 #uncharted {
-
     width: 200px;
 }
 
 #call-of-duty {
-
     width: 200px;
 }
 
-/* PS4 Styling */
-
-#ps4-info {
-
-    text-align: left;
-    width: 30%;
-    display: inline-block;
-    clear: both;
-    margin-top: 30px;
-    margin-left: 150px;
-    font-family: 'Ubuntu', sans-serif;
-    padding: 30px;
-    border: navy 4px solid;
-    border-radius: 50px;
-}
+/* PS4 Games Styling */
 
 #god-of-war {
-
     width: 200px;
 }
 
 #witcher {
-
     width: 200px;
 }
 
 #the-last-of-us-2 {
-
     width: 200px;
 }
 
+/* PS5 Games Styling*/
 
 #elden-ring {
-
     width: 200px;
 }
 
 #spider-man {
-
     width: 200px;
 }
 
 #stray {
-
     width: 200px;
 }
