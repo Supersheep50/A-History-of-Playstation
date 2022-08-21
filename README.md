@@ -1,6 +1,8 @@
 A History of PlayStation
 
-This website is designed to be an informational resource for PlayStation fans and newcomers alike. The site will be aimed at gamers and other folks who would love to learn more about the history of the PlayStation conosole as it quickly approcahes its 30th anniversary. The website will chronicle each varitaion of the console and how it has changed over the years, from the PlayStation right up to the PlayStation 5.
+This website is designed to be an informational resource for PlayStation fans and newcomers alike. The site will be aimed at gamers and other folks who would love to learn more about the history of the PlayStation conosole as it quickly approaches its 30th anniversary. The website will chronicle each varitaion of the console and how it has changed over the years, from the PlayStation right up to the PlayStation 5.
+
+Each section will also include some examples of the best selling games for each generation.
 
 ![image showing the home page across 4 different screen sizes]
 
@@ -10,14 +12,14 @@ This website is designed to be an informational resource for PlayStation fans an
 
     -   #### First Time Visitor Goals
 
-        1.
+        1. As a first time user I will be looking to find out information about the Playstation and its various versions in an easy to navigate way. I would hope to find photos and information that will differentiate the different consoles and how they have changed over the years. This website would be my go to for all information about Playstation hardware and the why behind certain versions. I would like to sign up to a newsletter that alerts me to new consoles and variations plus a host of other news around the Playstation.
 
     -   #### Returning Visitor Goals
 
         1. 
 
     -   #### Frequent User Goals
-        1. 
+        1. As a frequent viewer I 
 
 -   ### Design
 

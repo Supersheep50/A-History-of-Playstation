@@ -104,8 +104,6 @@ header h1 {
 /* PS1 Info Section */
 
 #ps1-info {
-
-
     text-align: left;
     width: 30%;
     display: inline-block;
@@ -115,9 +113,6 @@ header h1 {
     padding: 30px;
     border: navy 4px solid;
     border-radius: 50px;
-
-
-
 }
 
 
