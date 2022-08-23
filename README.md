@@ -133,6 +133,7 @@ The project was deployed to GitHub Pages using the following steps...
 - Image for PlayStation 2 can be found [here] (https://www.cbr.com/playstation-2-bestselling-console/)
 - Playstation 2 Information and best selling games information can be found [here] (https://en.wikipedia.org/wiki/PlayStation_2)
 - Image for Tekken 5 can be found [here] (https://en.wikipedia.org/wiki/Tekken_5)
+- W3 Schools for Flex info and Mentor 
 
 ### Code
 
