@@ -138,9 +138,10 @@ header h1 {
     padding: 15px;
 }
 
-#best-selling-games {
+.best-selling-games {
     display: inline-flex;
     flex-direction: row;
+    justify-content: space-between;
     font-family: 'Ubuntu', sans-serif;
     background-color: navy;
     color: white;
@@ -151,53 +152,17 @@ header h1 {
 }
 
 
-/*
-#game-left {
-    float: left;
-    width: 33%;
-    display: block;
-    text-align: center;
-    font-family: 'Ubuntu', sans-serif;
-    margin: 0 auto;
-    font-style: italic;
-}
+.game {
 
-#game-right {
-    float: right;
-    width: 33%;
-    display: block;
     text-align: center;
-    font-family: 'Ubuntu', sans-serif;
-    margin: 0 auto;
-    font-style: italic;
-}
-
-#game-middle {
     width: 30%;
-    margin: 0 auto;
-    display: inline-block;
-    clear: both;
-    text-align: center;
-    font-family: 'Ubuntu', sans-serif;
-    font-style: italic;
+
 }
 
-*/
-
-/*PS1 Games Styling*/
-
-
-#gran-turismo-1 {
-    height: 200px;
+.game img {
+    width: 40%;
 }
 
-#final-fantasy-7 {
-    height: 200px;
-}
-
-#gran-turismo-2 {
-    height: 200px;
-}
 
 
 /* Footer Styling */
@@ -273,61 +238,4 @@ footer {
 #ps2-ps5-logo img {
 
     height: 406px;
-}
-
-/*PS2 Games Styling*/
-
-#grand-theft-auto {
-    width: 230px;
-}
-
-#metal-gear-solid {
-    width: 200px;
-}
-
-#tekken-5 {
-    width: 200px;
-}
-
-
-/* PS3 Games Styling */
-
-#the-last-of-us {
-    width: 200px;
-}
-
-#uncharted {
-    width: 200px;
-}
-
-#call-of-duty {
-    width: 200px;
-}
-
-/* PS4 Games Styling */
-
-#god-of-war {
-    width: 200px;
-}
-
-#witcher {
-    width: 200px;
-}
-
-#the-last-of-us-2 {
-    width: 200px;
-}
-
-/* PS5 Games Styling*/
-
-#elden-ring {
-    width: 200px;
-}
-
-#spider-man {
-    width: 200px;
-}
-
-#stray {
-    width: 200px;
 }
