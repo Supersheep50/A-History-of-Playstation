@@ -1,7 +1,9 @@
 /* Header and Nav bar */
-body {
+body,
+h3 {
     margin: 0;
 }
+
 
 header h1 {
     color: #1f1f1f;
@@ -127,19 +129,29 @@ header h1 {
 }
 
 /*Best Games Section Styling all consoles */
-
-#best-selling-games {
-    display: block;
+.best-selling-header {
+    background-color: navy;
     font-family: 'Ubuntu', sans-serif;
     background-color: navy;
     color: white;
+    margin: 0;
+    padding: 15px;
+}
+
+#best-selling-games {
+    display: inline-flex;
+    flex-direction: row;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: navy;
+    color: white;
+    margin: 0;
     padding: 30px;
+    font-style: italic;
+
 }
 
-#best-selling-games h3 {
-    margin-top: 0px;
-}
 
+/*
 #game-left {
     float: left;
     width: 33%;
@@ -170,18 +182,21 @@ header h1 {
     font-style: italic;
 }
 
+*/
+
 /*PS1 Games Styling*/
 
+
 #gran-turismo-1 {
-    width: 30%;
+    height: 200px;
 }
 
 #final-fantasy-7 {
-    width: 38%;
+    height: 200px;
 }
 
 #gran-turismo-2 {
-    width: 30%;
+    height: 200px;
 }
 
 
