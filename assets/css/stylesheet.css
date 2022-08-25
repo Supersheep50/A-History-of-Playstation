@@ -176,6 +176,12 @@ header h1 {
     width: 40%;
 }
 
+.game img:hover {
+    animation-name: ps-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
 /* Footer Styling */
 
 footer {
