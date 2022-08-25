@@ -19,8 +19,10 @@
 <body>
 
     <!-- Header - Nav & Heading -->
-    <header id="header">
-        <h1><i class="fa-brands fa-playstation"></i> A History of the PlayStation</h1>
+    <header>
+        <a href="index.html">
+            <h1><i class="fa-brands fa-playstation"></i> A History of the PlayStation</h1>
+        </a>
         <nav id="nav-bar">
             <ul>
                 <li> <a href="ps4-ps5.html" class="home"> PS4 & PS5 </a></li>
@@ -114,7 +116,8 @@
                 <article>
                     <p>
                         The PlayStation 5 (PS5) is a home video game console developed by Sony Interactive
-                        Entertainment. Announced in 2019 as the successor to the PlayStation 4, the PS5 was released on November 12,
+                        Entertainment. Announced in 2019 as the successor to the PlayStation 4, the PS5 was released on
+                        November 12,
                         2020,
                         in
                         Australia, Japan, New Zealand, North America, and South Korea, with worldwide release following
@@ -188,24 +191,28 @@
 
     <footer>
         <!--Newsletter sign up-->
-        <section id="newsletter">
-            <h2>Newsletter</h2>
-            <h3>Sign up to our newsletter to get weekly updates on the latest games and news!</h3>
-            <form>
-                <div>
-                    <label for="f-name">First Name</label>
-                    <input type="text" id="f-name">
-                </div>
-                <div>
-                    <label for="l-name">Last Name</label>
-                    <input type="text" id="l-name">
-                </div>
-                <div>
-                    <label for="email">Email</label>
-                    <input type="email" id="email">
-                </div>
-                <input class="sign-up-button" type="submit" value="Sign Up!">
+        <section>
+            <div class="newsletter">
+                <h2>Newsletter</h2>
+                <h3>Sign up to our newsletter to get weekly updates on the latest games and news!</h3>
+                <form>
+                    <div>
+                        <label for="f-name"><span>First Name</span></label>
+                        <input type="text" id="f-name">
+                    </div>
 
+                    <div>
+                        <label for="l-name"><span>Last Name</span></label>
+                        <input type="text" id="l-name">
+                    </div>
+
+                    <div>
+                        <label for="email"><span>Email</span> </label>
+                        <input type="email" id="email">
+                    </div>
+
+                    <input class="sign-up-button" type="submit" value="Sign Up!">
+            </div>
             </form>
         </section>
         <!--Social Links-->

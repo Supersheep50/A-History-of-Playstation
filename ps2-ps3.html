@@ -19,9 +19,10 @@
 <body>
 
     <!-- Header - Nav & Heading -->
-    <header id="header">
-        <h1><i class="fa-brands fa-playstation"></i> A History of the PlayStation</h1>
-
+    <header>
+        <a href="index.html">
+            <h1><i class="fa-brands fa-playstation"></i> A History of the PlayStation</h1>
+        </a>
         <nav id="nav-bar">
             <ul>
                 <li> <a href="ps4-ps5.html"> PS4 & PS5 </a></li>
@@ -45,7 +46,8 @@
                         PlayStation brand of consoles. As a sixth-generation console, it competed with Sega's Dreamcast,
                         Nintendo's GameCube, and Microsoft's Xbox.
                     </p>
-                    <p>Announced in 1999, Sony began developing the console after the immense success of its predecessor.
+                    <p>Announced in 1999, Sony began developing the console after the immense success of its
+                        predecessor.
                         The PS2 offered backward-compatibility for its predecessor's DualShock controller, as well as
                         its
                         games.
@@ -177,24 +179,28 @@
 
     <footer>
         <!--Newsletter sign up-->
-        <section id="newsletter">
-            <h2>Newsletter</h2>
-            <h3>Sign up to our newsletter to get weekly updates on the latest games and news!</h3>
-            <form>
-                <div>
-                    <label for="f-name">First Name</label>
-                    <input type="text" id="f-name">
-                </div>
-                <div>
-                    <label for="l-name">Last Name</label>
-                    <input type="text" id="l-name">
-                </div>
-                <div>
-                    <label for="email">Email</label>
-                    <input type="email" id="email">
-                </div>
-                <input class="sign-up-button" type="submit" value="Sign Up!">
+        <section>
+            <div class="newsletter">
+                <h2>Newsletter</h2>
+                <h3>Sign up to our newsletter to get weekly updates on the latest games and news!</h3>
+                <form>
+                    <div>
+                        <label for="f-name"><span>First Name</span></label>
+                        <input type="text" id="f-name">
+                    </div>
 
+                    <div>
+                        <label for="l-name"><span>Last Name</span></label>
+                        <input type="text" id="l-name">
+                    </div>
+
+                    <div>
+                        <label for="email"><span>Email</span> </label>
+                        <input type="email" id="email">
+                    </div>
+
+                    <input class="sign-up-button" type="submit" value="Sign Up!">
+            </div>
             </form>
         </section>
         <!--Social Links-->
