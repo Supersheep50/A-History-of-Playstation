@@ -10,7 +10,7 @@ header h1 {
     clear: both;
     display: inline-block;
     margin-top: 10px;
-    padding: 0;
+    padding: 10px;
 }
 
 #nav-bar {
@@ -99,6 +99,7 @@ header h1 {
     flex-direction: row;
     justify-content: space-between;
     padding: 20px;
+    margin-bottom: 20px;
 }
 
 #ps1-ps3-ps4-info {
@@ -166,12 +167,16 @@ footer {
     font-family: 'Ubuntu', sans-serif;
 }
 
-
 /* Newsletter Styling */
 
-#newsletter {
+.newsletter {
     text-align: center;
     padding: 30px;
+}
+
+.newsletter span {
+
+    width: 40px;
 }
 
 #newsletter h2 {
@@ -181,7 +186,6 @@ footer {
 .sign-up-button {
     background-color: yellow;
 }
-
 
 /* Social Links */
 
@@ -208,6 +212,7 @@ footer {
     flex-direction: row-reverse;
     justify-content: space-evenly;
     padding: 20px;
+    margin-bottom: 20px;
 }
 
 #ps2-ps5-info {
