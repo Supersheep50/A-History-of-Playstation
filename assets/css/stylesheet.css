@@ -217,17 +217,22 @@ footer {
 
 /* Social Links */
 
-#social-links {
+.social-links {
     text-align: center;
     text-decoration-style: none;
     letter-spacing: 20px;
 }
 
-#social-links li {
+.social-links li {
     display: inline;
+    color: inherit;
 }
 
-#copyright {
+.social-links :hover {
+    color: #ffffff;
+}
+
+.copyright {
     font-size: 15px;
     text-align: center;
 }
