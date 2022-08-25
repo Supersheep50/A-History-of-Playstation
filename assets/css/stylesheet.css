@@ -140,6 +140,9 @@ header h1 {
 #ps1-ps3-ps4-logo img {
 
     height: 406px;
+    animation-name: ps-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
 }
 
 /*Best Games Section Styling all consoles */
@@ -198,13 +201,14 @@ footer {
     padding: 30px;
 }
 
-.newsletter>span {
+.newsletter span {
 
-    width: 40px;
+    display: inline-block;
+    width: 80px;
 }
 
-#newsletter h2 {
-    margin-top: 0px;
+.newsletter h3 {
+    padding: 10px;
 }
 
 .sign-up-button {
@@ -259,4 +263,7 @@ footer {
 #ps2-ps5-logo img {
 
     height: 406px;
+    animation-name: ps-zoom;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
 }
