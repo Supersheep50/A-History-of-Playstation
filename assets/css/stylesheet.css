@@ -4,6 +4,7 @@ h3 {
     margin: 0;
 }
 
+
 header h1 {
     color: #1f1f1f;
     font-family: 'Ubuntu', sans-serif;
@@ -102,6 +103,22 @@ header h1 {
     margin-bottom: 20px;
 }
 
+.container-ps1-ps3-ps4 p {
+    color: inherit;
+}
+
+.container-ps1-ps3-ps4 p:hover {
+    color: red;
+}
+
+.container-ps2-ps5 p {
+    color: inherit;
+}
+
+.container-ps2-ps5 p:hover {
+    color: red;
+}
+
 #ps1-ps3-ps4-info {
     text-align: left;
     width: 40%;
@@ -111,6 +128,7 @@ header h1 {
     padding: 20px;
     height: fit-content;
 }
+
 
 #ps1-ps3-ps4-logo {
     display: inline-flex;
@@ -174,7 +192,7 @@ footer {
     padding: 30px;
 }
 
-.newsletter span {
+.newsletter>span {
 
     width: 40px;
 }
