@@ -6,6 +6,10 @@ Each section will also include some examples of the best selling games for each 
 
 ![image showing the home page across 4 different screen sizes]
 
+- Desktop Screenshot - [View](assets/images/desktop-screenshot.png) 
+- Tablet Screenshot - [View]() 
+- Mobile Screenshot - [View]() 
+
 ## User Experience (UX)
 
 -   ### User stories
@@ -50,8 +54,16 @@ Each section will also include some examples of the best selling games for each 
 -   Interactive elements:
     - Logo: 
     - Nav bar: 
-    - 
-    ![screenshot of a book cover and clickable title]
+    - Header image zoom:
+    - PlayStation info text: 
+    - Playstation Image
+    - Top Selling Games section:
+    - Newsletter: 
+    - Social Links:  
+
+
+
+    ![screenshot of a game cover and clickable title]
 
 ## Technologies Used
 
