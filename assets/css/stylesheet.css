@@ -78,12 +78,11 @@ header h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     width: 500px;
-    height: 200px;
-    padding-top: 40px;
-    padding-left: 10px;
+    height: fit-content;
     background-color: black;
     bottom: 325px;
     left: 375px;
+    top: 100px;
     position: absolute;
 }
 
@@ -135,14 +134,17 @@ header h1 {
     flex-direction: row;
     width: 50%;
 
+
 }
 
 #ps1-ps3-ps4-logo img {
 
-    height: 406px;
+    height: auto;
+    display: block;
     animation-name: ps-zoom;
     animation-duration: 3s;
     animation-fill-mode: forwards;
+
 }
 
 /*Best Games Section Styling all consoles */
@@ -267,8 +269,23 @@ footer {
 
 #ps2-ps5-logo img {
 
-    height: 406px;
+    height: auto;
+    display: block;
     animation-name: ps-zoom;
     animation-duration: 3s;
     animation-fill-mode: forwards;
+}
+
+/* Media Queries */
+
+@media screen and (max-width:1200px) {
+    #header-outer {
+        width: 100%;
+        height: 1200px;
+        margin: 0 auto;
+
+    }
+
+
+
 }
