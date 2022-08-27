@@ -49,7 +49,6 @@ header h1 {
     margin: 10px;
     display: inline-block;
     width: fit-content;
-
 }
 
 #nav-bar a {
@@ -102,7 +101,6 @@ header h1 {
     color: #ffffff;
 }
 
-
 /* PS1,PS3,PS4 Styling */
 .container-ps1-ps3-ps4 {
     display: flex;
@@ -141,17 +139,13 @@ header h1 {
     height: fit-content;
 }
 
-
 #ps1-ps3-ps4-logo {
     display: inline-flex;
     flex-direction: row;
     width: 50%;
-
-
 }
 
 #ps1-ps3-ps4-logo img {
-
     width: auto;
     height: auto;
     display: block;
@@ -159,7 +153,6 @@ header h1 {
     animation-duration: 3s;
     animation-fill-mode: forwards;
     overflow: hidden;
-
 }
 
 /*Best Games Section Styling all consoles */
@@ -182,14 +175,11 @@ header h1 {
     margin: 0;
     padding: 30px;
     font-style: italic;
-
 }
 
 .game {
-
     text-align: center;
     width: 30%;
-
 }
 
 .game img {
@@ -219,7 +209,6 @@ footer {
 }
 
 .newsletter span {
-
     display: inline-block;
     width: 80px;
 }
@@ -233,7 +222,6 @@ footer {
 }
 
 /* Social Links */
-
 .social-links {
     text-align: center;
     text-decoration-style: none;
@@ -293,10 +281,8 @@ footer {
 /* Media Queries */
 
 @media screen and (max-width:1650px) {
-
     #header-outer {
         background-position: right 50%;
-
     }
 
     #intro-overlay {
@@ -304,7 +290,6 @@ footer {
         bottom: 250px;
         right: 175px;
         text-align: center;
-
     }
 
     #nav-bar {
@@ -319,7 +304,6 @@ footer {
         flex-direction: column;
     }
 
-
     .container-ps1-ps3-ps4 {
         width: auto;
         height: auto;
@@ -330,7 +314,6 @@ footer {
     }
 
     #ps1-ps3-ps4-info {
-
         width: auto;
         height: auto;
         padding: 30px;
@@ -355,7 +338,6 @@ footer {
     }
 
     #ps2-ps5-info {
-
         width: auto;
         height: auto;
         padding: 30px;
@@ -372,7 +354,6 @@ footer {
 }
 
 @media screen and (max-width:750px) {
-
     .best-selling-games {
         flex-direction: column;
 
@@ -386,40 +367,49 @@ footer {
 }
 
 @media screen and (max-width:550px) {
-
     header {
         font-size: small;
     }
 
     #header-outer {
-        background-position: right 50%;
-
+        background-position: center 75%;
     }
 
     #intro-overlay {
         position: absolute;
         bottom: 150px;
-        right: 175px;
+        right: 180px;
         text-align: center;
         font-size: small;
-
     }
 
 }
 
 @media screen and (max-width:475px) {
-
     header {
         font-size: x-small;
+        margin: 30px;
+    }
+
+    #header-outer {
+        width: 100%;
     }
 
     #intro-overlay {
         position: absolute;
-        bottom: 200px;
-        right: 175px;
+        right: 170px;
+        bottom: 170px;
         text-align: center;
-        font-size: xx-small;
-
+        font-size: small;
     }
 
+    #ps1-ps3-ps4-info {
+        width: 100%;
+        margin: 0;
+    }
+
+    #ps2-ps5-info {
+        width: 100%;
+        margin: 0;
+    }
 }
