@@ -45,7 +45,7 @@ header h1 {
 
 /* Header image and overlay text PS1 page */
 
-#header-image {
+#header-outer {
     width: 100%;
     background: url(/assets/images/playstation-logo-dark.jpeg);
     height: 600px;
@@ -53,6 +53,10 @@ header h1 {
     animation-name: ps-zoom;
     animation-duration: 3s;
     animation-fill-mode: forwards;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 30px;
+    text-align: center;
 }
 
 @keyframes ps-zoom {
@@ -65,12 +69,14 @@ header h1 {
     }
 }
 
+/*
 #header-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
+*/
 
 #intro-overlay {
     font-size: 20px;
