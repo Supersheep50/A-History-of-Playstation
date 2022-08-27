@@ -334,7 +334,7 @@ footer {
         width: auto;
         height: auto;
         padding: 30px;
-        margin: 30px;
+        margin: 50px;
     }
 
     #ps1-ps3-ps4-logo {
@@ -342,6 +342,7 @@ footer {
         flex-direction: column;
         width: auto;
         height: auto;
+        margin: 50px;
     }
 
     .container-ps2-ps5 {
@@ -358,7 +359,7 @@ footer {
         width: auto;
         height: auto;
         padding: 30px;
-        margin: 30px;
+        margin: 50px;
     }
 
     #ps2-ps5-logo {
@@ -366,7 +367,59 @@ footer {
         flex-direction: column;
         width: auto;
         height: auto;
+        margin: 50px;
     }
 }
 
-@media screen and (max-width:425px) {}
+@media screen and (max-width:750px) {
+
+    .best-selling-games {
+        flex-direction: column;
+
+    }
+
+    .game {
+        width: 100%;
+    }
+
+
+}
+
+@media screen and (max-width:550px) {
+
+    header {
+        font-size: small;
+    }
+
+    #header-outer {
+        background-position: right 50%;
+
+    }
+
+    #intro-overlay {
+        position: absolute;
+        bottom: 150px;
+        right: 175px;
+        text-align: center;
+        font-size: small;
+
+    }
+
+}
+
+@media screen and (max-width:475px) {
+
+    header {
+        font-size: x-small;
+    }
+
+    #intro-overlay {
+        position: absolute;
+        bottom: 200px;
+        right: 175px;
+        text-align: center;
+        font-size: xx-small;
+
+    }
+
+}
