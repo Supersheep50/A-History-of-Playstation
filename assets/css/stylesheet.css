@@ -109,7 +109,7 @@ header h1 {
     flex-wrap: nowrap;
     flex-direction: row;
     justify-content: space-between;
-    padding: 20px;
+    padding: 30px;
     margin-bottom: 20px;
     width: auto;
     height: auto;
@@ -261,7 +261,7 @@ footer {
     flex-wrap: nowrap;
     flex-direction: row-reverse;
     justify-content: space-evenly;
-    padding: 20px;
+    padding: 30px;
     margin-bottom: 20px;
 }
 
@@ -271,7 +271,7 @@ footer {
     font-family: 'Ubuntu', sans-serif;
     border: navy 4px solid;
     border-radius: 50px;
-    padding: 20px;
+    padding: 30px;
     height: fit-content;
 }
 
@@ -283,9 +283,8 @@ footer {
 }
 
 #ps2-ps5-logo img {
-
+    width: auto;
     height: auto;
-    display: block;
     animation-name: ps-zoom;
     animation-duration: 3s;
     animation-fill-mode: forwards;
@@ -294,6 +293,19 @@ footer {
 /* Media Queries */
 
 @media screen and (max-width:1650px) {
+
+    #header-outer {
+        background-position: right 50%;
+
+    }
+
+    #intro-overlay {
+        position: absolute;
+        bottom: 250px;
+        right: 175px;
+        text-align: center;
+
+    }
 
     #nav-bar {
         width: auto;
@@ -317,6 +329,14 @@ footer {
         flex-direction: column;
     }
 
+    #ps1-ps3-ps4-info {
+
+        width: auto;
+        height: auto;
+        padding: 30px;
+        margin: 30px;
+    }
+
     #ps1-ps3-ps4-logo {
         display: flex;
         flex-direction: column;
@@ -324,6 +344,29 @@ footer {
         height: auto;
     }
 
+    .container-ps2-ps5 {
+        width: auto;
+        height: auto;
+        margin: 0 auto;
+        padding: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #ps2-ps5-info {
+
+        width: auto;
+        height: auto;
+        padding: 30px;
+        margin: 30px;
+    }
+
+    #ps2-ps5-logo {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        height: auto;
+    }
 }
 
 @media screen and (max-width:425px) {}
