@@ -386,11 +386,15 @@ footer {
 
 @media screen and (max-width:475px) {
     header {
-        margin: 30px;
+        margin: 0 auto;
     }
 
     .header-outer {
         width: 100%;
+    }
+
+    .nav-bar {
+        letter-spacing: normal;
     }
 
     .nav-links {
