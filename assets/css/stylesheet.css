@@ -26,7 +26,7 @@ header h1 {
     padding: 10px;
 }
 
-#nav-bar {
+.nav-bar {
     color: #1f1f1f;
     font-size: 120%;
     font-family: 'Ubuntu', sans-serif;
@@ -51,12 +51,12 @@ header h1 {
     width: fit-content;
 }
 
-#nav-bar a {
+.nav-bar a {
     color: inherit;
     text-decoration: none;
 }
 
-#nav-bar a:hover {
+.nav-bar a:hover {
     color: red;
 }
 
@@ -66,7 +66,7 @@ header h1 {
 
 /* Header image and overlay text PS1 page */
 
-#header-outer {
+.header-outer {
     width: 100%;
     background: url(/assets/images/playstation-logo-dark.jpeg);
     height: 550px;
@@ -79,7 +79,7 @@ header h1 {
     margin-bottom: 30px;
 }
 
-#intro-overlay {
+.intro-overlay {
     position: absolute;
     bottom: 200px;
     left: 200px;
@@ -96,8 +96,8 @@ header h1 {
     }
 }
 
-#intro-overlay p,
-#intro-overlay h2 {
+.intro-overlay p,
+.intro-overlay h2 {
     color: #ffffff;
 }
 
@@ -129,7 +129,7 @@ header h1 {
     color: red;
 }
 
-#ps1-ps3-ps4-info {
+.ps1-ps3-ps4-info {
     text-align: left;
     width: 40%;
     font-family: 'Ubuntu', sans-serif;
@@ -139,13 +139,13 @@ header h1 {
     height: fit-content;
 }
 
-#ps1-ps3-ps4-logo {
+.ps1-ps3-ps4-logo {
     display: inline-flex;
     flex-direction: row;
     width: 50%;
 }
 
-#ps1-ps3-ps4-logo img {
+.ps1-ps3-ps4-logo img {
     width: auto;
     height: auto;
     display: block;
@@ -253,7 +253,7 @@ footer {
     margin-bottom: 20px;
 }
 
-#ps2-ps5-info {
+.ps2-ps5-info {
     text-align: left;
     width: 40%;
     font-family: 'Ubuntu', sans-serif;
@@ -263,14 +263,14 @@ footer {
     height: fit-content;
 }
 
-#ps2-ps5-logo {
+.ps2-ps5-logo {
     display: inline-flex;
     flex-direction: row;
     width: 50%;
 
 }
 
-#ps2-ps5-logo img {
+.ps2-ps5-logo img {
     width: auto;
     height: auto;
     animation-name: ps-zoom;
@@ -281,23 +281,23 @@ footer {
 /* Media Queries */
 
 @media screen and (max-width:1650px) {
-    #header-outer {
+    .header-outer {
         background-position: right 50%;
     }
 
-    #intro-overlay {
+    .intro-overlay {
         position: absolute;
         bottom: 250px;
         right: 175px;
         text-align: center;
     }
 
-    #nav-bar {
+    .nav-bar {
         width: auto;
         height: auto;
     }
 
-    #header {
+    header {
         width: auto;
         height: auto;
         display: flex;
@@ -313,14 +313,14 @@ footer {
         flex-direction: column;
     }
 
-    #ps1-ps3-ps4-info {
+    .ps1-ps3-ps4-info {
         width: auto;
         height: auto;
         padding: 30px;
         margin: 50px;
     }
 
-    #ps1-ps3-ps4-logo {
+    .ps1-ps3-ps4-logo {
         display: flex;
         flex-direction: column;
         width: auto;
@@ -337,14 +337,14 @@ footer {
         flex-direction: column;
     }
 
-    #ps2-ps5-info {
+    .ps2-ps5-info {
         width: auto;
         height: auto;
         padding: 30px;
         margin: 50px;
     }
 
-    #ps2-ps5-logo {
+    .ps2-ps5-logo {
         display: flex;
         flex-direction: column;
         width: auto;
@@ -371,11 +371,11 @@ footer {
         font-size: small;
     }
 
-    #header-outer {
+    .header-outer {
         background-position: center 75%;
     }
 
-    #intro-overlay {
+    .intro-overlay {
         position: absolute;
         bottom: 150px;
         right: 180px;
@@ -391,11 +391,11 @@ footer {
         margin: 30px;
     }
 
-    #header-outer {
+    .header-outer {
         width: 100%;
     }
 
-    #intro-overlay {
+    .intro-overlay {
         position: absolute;
         right: 170px;
         bottom: 170px;
@@ -403,12 +403,12 @@ footer {
         font-size: small;
     }
 
-    #ps1-ps3-ps4-info {
+    .ps1-ps3-ps4-info {
         width: 100%;
         margin: 0;
     }
 
-    #ps2-ps5-info {
+    .ps2-ps5-info {
         width: 100%;
         margin: 0;
     }
