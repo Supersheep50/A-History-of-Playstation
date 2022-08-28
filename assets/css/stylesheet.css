@@ -39,8 +39,6 @@ header h1 {
 .nav-links {
     display: flex;
     flex-direction: row-reverse;
-    margin-right: 30px;
-    margin-bottom: 30px;
     list-style-type: none;
 
 }
@@ -48,7 +46,7 @@ header h1 {
 .nav-links li {
     margin: 10px;
     display: inline-block;
-    width: fit-content;
+    width: max-content;
 }
 
 .nav-bar a {
@@ -302,7 +300,7 @@ footer {
         width: auto;
         height: auto;
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
     }
 
     .container-ps1-ps3-ps4 {
@@ -388,12 +386,15 @@ footer {
 
 @media screen and (max-width:475px) {
     header {
-        font-size: x-small;
         margin: 30px;
     }
 
     .header-outer {
         width: 100%;
+    }
+
+    .nav-links {
+        flex-direction: column-reverse;
     }
 
     .intro-overlay {
