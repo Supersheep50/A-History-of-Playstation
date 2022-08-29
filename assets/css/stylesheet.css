@@ -223,7 +223,7 @@ footer {
 /* Social Links */
 .social-links {
     text-align: center;
-    text-decoration-style: none;
+    text-decoration: none;
     letter-spacing: 20px;
 }
 
