@@ -381,7 +381,8 @@ footer {
         font-size: small;
     }
 
-    .ps1-ps3-ps4-logo {
+    .ps1-ps3-ps4-logo img {
+
         width: 100%;
         height: auto;
     }
