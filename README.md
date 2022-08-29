@@ -1,14 +1,16 @@
 A History of PlayStation
 
+[View live project here](https://supersheep50.github.io/A-History-of-Playstation/)
+
 This website is designed to be an informational resource for PlayStation fans and newcomers alike. The site will be aimed at gamers and other folks who would love to learn more about the history of the PlayStation console as it quickly approaches its 30th anniversary. The website will chronicle each varitaion of the console and how it has changed over the years, from the PlayStation right up to the PlayStation 5.
 
 Each section will also include some examples of the best selling games for each generation.
 
-![image showing the home page across 4 different screen sizes]
+![image showing the home page across 4 different screen sizes](assets/images/desktop-mobile-tablet-screenshot.png)
 
 - Desktop Screenshot - [View](assets/images/desktop-screenshot.png) 
-- Tablet Screenshot - [View]() 
-- Mobile Screenshot - [View]() 
+- Tablet Screenshot - [View](assets/images/tablet-screenshot.png)
+- Mobile Screenshot - [View](assets/images/mobile-screenshot.png) 
 
 ## User Experience (UX)
 
