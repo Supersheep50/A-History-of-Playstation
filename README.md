@@ -58,18 +58,26 @@ Each section will also include some examples of the best selling games for each 
     - Desktop:[PS1](assets/images/desktop-screenshot.png)|[PS2&PS3](assets/images/desktop-ps2-ps3-screenshot.png)|[PS4&PS5](assets/images/desktop-ps4-ps5-screenshot.png)
 
 -   Interactive elements:
-    - Logo: 
-    - Nav bar: 
-    - Header image zoom:
-    - PlayStation info text: 
-    - Playstation Image
-    - Top Selling Games section:
-    - Newsletter: 
-    - Social Links:  
+    - Logo: Clicking the logo in the top left of each page will bring you back to the homepage. 
+    ![The History of PlayStation logo- PlayStation symbol with the writing The History of PlayStation](assets/images/the-history-of-playstation-logo.png)
 
+    - Nav bar: At the top right of each page is the menu. Each link turns red when you hover over it to let you know its interactive. There is a black underline for each link to let the user know which page they are on.
+    ![The History of PlayStation menu list. Each page name is displayed on white backdrop](assets/images/nav-bar-screenshot.png)
 
+    - Header image zoom: The main header image zooms on the home page when first clicking into the website. A welcome messages informs the user what the website is about.
+    ![The History of PlayStation header photo. PS Logo zooms forwards on a black background. A welcome message is also included](assets/images/header-logo.png)
 
-    ![screenshot of a game cover and clickable title]
+    - PlayStation info text and image: Each PlayStation section has a box displaying information about the particular console. Hovering over the text turns it from black to red, helping to make it easier to read. The PlayStation image also zooms forward to give the user a more dynamic view of it.
+    ![PlayStation console informational text box. Each box contains text describing each console. Text changes from black to red when you hover over it](assets/images/playstation-info-textbox.png) 
+
+    - Top Selling Games section: Each PlayStation console has a section displaying 3 of the best selling games that released for that console. Hovering over the image will cause it to zoom and clicking the image will bring you to the Wikipedia page for that game.
+    ![Best Selling Games section. 3 games for that particular console displayed with their cover art. Images zoom when you hover over them and clicking them brings you to the Wikipedia page for that selected game](assets/images/best-selling-games-screenshot.png)
+
+    - Newsletter: At the bottom of each pages is a Newsletter sign up form. Here users can sign up to the weekly Newsletter to keep informed about PlayStation news.
+    ![Newsletter section. Users can sign up here using their name and email address to receive weekly updates on PlayStation info](assets/images/form-signup-screenshot.png)
+
+    - Social Links: At the bottom of each page is a clickable logo for Instagram, Twitter and Facebook. Clicking any of these links will bring the user to the PlayStation home page for each corresponding social media website. Hovering over the logos causes them to change color to white, letting the user know they are interactive.
+    ![Social Links. At the bottom of each page is 3 social media logos for Facebook, Twitter and Instagram.Hovering over each image changes the color](assets/images/social-links-screenshot.png)
 
 ## Technologies Used
 
