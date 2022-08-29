@@ -24,12 +24,11 @@ Each section will also include some examples of the best selling games for each 
 
         1. As a returning visitor I want to find out more information about the different PlayStation consoles and games in more detail. 
         2. As a returning visitor I'd like to see new PlasyStation consoles and Best Selling games added. 
-        3. As a returning visitor I'd like to see other games consoles included too. 
+        3. As a returning visitor I'd like to be able to read up on more information about the Best Selling games.
 
     -   #### Frequent User Goals
         1. As a frequent user I want to sign up to a newsletter that keeps me informed on a weekly or monthly basis about PlayStation and gaming news.
-        2. As a frequent user I want to be able to see console and gaming reviews. 
-        3. As a frequent user I want to be able to purchase consoles and games through the website. 
+        
 
 -   ### Design
 
@@ -109,19 +108,36 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### First Time Visitor Goals
 
-    1. 
+    1. As a first time visitor I want to understand what The History of PlayStation website is and whats it's purpose is.
+        1. On the home page I can see the logo and website name displayed in the top left.
+        2. On the home page there is also a welcome message displayed in the centre of the screen.
+
+    2. As a first time visitor I want to understand how to navigate the site to find information and sections about the PlayStation with ease.
+        1. At the top right of the screen there is a menu that lets me easily naviaget between the pages.
+        2. Clicking the logo at the top left will bring me back to the home page.
+
+    3. As a first time visitor I want to learn about the different variations of the PlayStation and info behind their release. I want to see photos of each console to help me better understand them and also some select games from each console. 
+        1. On each page there are PlayStation consoles listed with information in a text box beside them. 
+        2. Each text box also has a console image beside it.
+        3. Below each console image and info box is a selection of the top 3 selling games for that console. 
 
 -   #### Returning Visitor Goals
 
-    1. 
-
-    2. 
-
-    3. 
+    1. As a returning visitor I want to find out more information about the different PlayStation consoles and games in more detail. 
+        1. Each console has detailed information about their release and console type. 
+        2. Clicking on any of the best selling game icons will bring you to a Wikipedia page with more information about the game. 
+    
+    2. As a returning visitor I'd like to see new PlayStation consoles and Best Selling games added. 
+        1. Right now the website is fully up to date with the most current consoles and best selling games data.
+    
+    3. As a returning visitor I'd like to see new games consoles included as they are realeased.
+        1. Each Best Selling Game has a wikipedia article linked for further reading.
 
 -   #### Frequent User Goals
 
-    1.
+    1. As a frequent user I want to sign up to a newsletter that keeps me informed on a weekly or monthly basis about PlayStation and gaming news.
+        1. Newsletter sign up form is at the bottom of each page.
+ 
 
 ### Further Testing
 
