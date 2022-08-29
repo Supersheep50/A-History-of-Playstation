@@ -1,6 +1,6 @@
 A History of PlayStation
 
-This website is designed to be an informational resource for PlayStation fans and newcomers alike. The site will be aimed at gamers and other folks who would love to learn more about the history of the PlayStation conosole as it quickly approaches its 30th anniversary. The website will chronicle each varitaion of the console and how it has changed over the years, from the PlayStation right up to the PlayStation 5.
+This website is designed to be an informational resource for PlayStation fans and newcomers alike. The site will be aimed at gamers and other folks who would love to learn more about the history of the PlayStation console as it quickly approaches its 30th anniversary. The website will chronicle each varitaion of the console and how it has changed over the years, from the PlayStation right up to the PlayStation 5.
 
 Each section will also include some examples of the best selling games for each generation.
 
@@ -16,25 +16,31 @@ Each section will also include some examples of the best selling games for each 
 
     -   #### First Time Visitor Goals
 
-        1. As a first time user I will be looking to find out information about the Playstation and its various versions in an easy to navigate way. I would hope to find photos and information that will differentiate the different consoles and how they have changed over the years. This website would be my go to for all information about Playstation hardware and the why behind certain versions. I would like to sign up to a newsletter that alerts me to new consoles and variations plus a host of other news around the Playstation.
+        1. As a first time visitor I want to understand what The History of PlayStation website is and whats it's purpose is.
+        2. As a first time visitor I want to understand how to navigate the site to find information and sections about the PlayStation with ease.
+        3. As a first time visitor I want to learn about the different variations of the PlayStation and info behind their release. I want to see photos of each console to help me better understand them and also some select games from each console. 
 
     -   #### Returning Visitor Goals
 
-        1. With the newsletter making me come back to the website on a frequent basis I would hope to see information and sections added to the website. I would also like to use the website as a resource when purchasing any of the consoles or trying to improve my knowledge on gaming history. I would expect links in the newsletter to bring me back to the wesbite. 
+        1. As a returning visitor I want to find out more information about the different PlayStation consoles and games in more detail. 
+        2. As a returning visitor I'd like to see new PlasyStation consoles and Best Selling games added. 
+        3. As a returning visitor I'd like to see other games consoles included too. 
 
     -   #### Frequent User Goals
-        1. As a frequent user I would be returning to the website to increase my gaming knowledge. Learning more and more about past Playstation consoles and how they've changed over the years. 
+        1. As a frequent user I want to sign up to a newsletter that keeps me informed on a weekly or monthly basis about PlayStation and gaming news.
+        2. As a frequent user I want to be able to see console and gaming reviews. 
+        3. As a frequent user I want to be able to purchase consoles and games through the website. 
 
 -   ### Design
 
     -   #### Colour Scheme
-        - The idea behind the colour scheme was to include as many of the prime Playstation logo colours as possible. I found the navy contrasted well against the black of the header background and the PS logo itself.   
+        - The idea behind the colour scheme was to include as many of the prime Playstation logo colours as possible. I found the navy contrasted well against the black of the header background and the PS logo itself. The main colours I used were black, navy, white, yellow and red. I wanted to create a website that was easy to read and navigate.
 
     -   #### Typography
-        - Ubuntu and Sans-serif were chosen as I felt they had a videogame feel to them. Similiar to the type of font you'd find in many modern videogames today. They felt close to the font used by Playstation on many of their own websites. 
+        - Ubuntu and Sans-serif were chosen as I felt they had a videogame feel to them. Similiar to the type of font you'd find in many modern videogames today. They felt close to the font used by PlayStation on many of their own websites. 
 
     -   #### Imagery
-        -  The header that was chosen is an iconic image of the PS logo on a black backdrop. The logo instills a particular sens of nostalgia for me and hopefully vistors to the site. I have also added photos of each of the consoles and their normal (not slim) versions. This gives users a better idea of the the info text is talking about, especially if they are not familiar with the consoles. Images have also been added to each of the best selling games for each console. I've used the cover art for the games as they add a great deal of colour to the website. 
+        -  The header that was chosen is an iconic image of the PS logo on a black backdrop. The logo instills a particular sens of nostalgia for me and hopefully vistors to the site. I have also added photos of each of the consoles and their normal (not slim) versions. This gives users a better idea of what the info text is talking about, especially if they are not familiar with the consoles. Images have also been added to each of the best selling games for each console. I've used the cover art for the games as they add a great deal of colour to the website. 
 
 *   ### Wireframes
 
@@ -47,9 +53,9 @@ Each section will also include some examples of the best selling games for each 
 ## Features
 
 -   Responsive on all device sizes:
-    - Mobile: [Home]| [Gallery](assets/readme/mobile-gallery.png) | [Books] | [RSVP]
-    - Tablet: [Home] | [Gallery] | [Books] | [RSVP]
-    - Desktop: [Home] | [Gallery] | [Books] | [RSVP]
+    - Mobile: [PS1](assets/images/mobile-screenshot.png)| [PS2&PS3](assets/images/mobile-ps2-ps3-screenshot.png)|[PS4&PS5](assets/images/mobile-ps4-ps5-screenshot.png) 
+    - Tablet: [PS1](assets/images/tablet-screenshot.png)| [PS2&PS3](assets/images/tablet-ps2-ps3-screenshot.png)|[PS4&PS5](assets/images/tablet-ps4-ps5-screenshot.png) 
+    - Desktop:[PS1](assets/images/desktop-screenshot.png)|[PS2&PS3](assets/images/desktop-ps2-ps3-screenshot.png)|[PS4&PS5](assets/images/desktop-ps4-ps5-screenshot.png)
 
 -   Interactive elements:
     - Logo: 
