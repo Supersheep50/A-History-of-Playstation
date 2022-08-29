@@ -103,7 +103,7 @@ Each section will also include some examples of the best selling games for each 
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator]
+-   [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - Results: [Home](assets/images/ps1-html-code-validated.png)[PS2-PS3](assets/images/ps2-ps3-validated-code.png)     [PS4-PS5](assets/images/ps4-ps5-code-validated.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -127,7 +127,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 
 ### Known Bugs (Resolved)
-
+1. Aeticle bug
 
 
 
