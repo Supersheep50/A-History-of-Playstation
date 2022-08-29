@@ -102,7 +102,7 @@ Each section will also include some examples of the best selling games for each 
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - Results: [PS1](assets/images/ps1-html-code-validated.png)[PS2-PS3](assets/images/ps2-ps3-validated-code.png)     [PS4-PS5](assets/images/ps4-ps5-code-validated.png) [CSS](/assets/images/css-code-validated%20.png)
+-   [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - Results: [PS1](assets/images/ps1-html-code-validated.png)[PS2-PS3](assets/images/ps2-ps3-validated-code.png)     [PS4-PS5](assets/images/ps4-ps5-code-validated.png) [CSS](assets/images/css-code-validated%20.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -139,13 +139,17 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. Newsletter sign up form is at the bottom of each page.
  
 
-### Further Testing
+### Further Testing 
 
-    - The website was manually tested on an Iphone 12 XL, Iphone 13, Ipad Air and Macbook Pro.
-    - The website was manually tested on Google Chrome and Safari.
-    - The website was viewed in Developer tools at all settings of responsiveness. 
-    - All links clicked and checked. 
-    - Sent links to partner to check on her device and check for bugs. 
+- The website was manually tested on an Iphone 12 XL, Iphone 13, Ipad Air and Macbook Pro.
+- The website was manually tested on Google Chrome and Safari.
+- The website was viewed in Developer tools at all settings of responsiveness. 
+- All links clicked and checked. 
+- Sent links to partner to check on her device and check for bugs. 
+- Used Lighthouse to conduct desktop and mobile tests for performance, accesibility, best practices and SEO. 
+    1. Desktop: [PS1](assets/images/ps1-lighthouse-test.png) | [PS2-PS3](assets/images/ps2-ps3-lighthouse-test.png) | [PS4-PS5](assets/images/ps4-ps5-lighthouse-test.png)
+    2. Mobile: [PS1](assets/images/ps1-lighthouse-mobile-test.png) | [PS2-PS3](assets/images/ps2-ps3-lighthouse-mobile-test.png) | [PS4-PS5](assets/images/ps4-ps5-lighthouse-mobile-test.png)
+                    
 
 ### Known Bugs (Resolved)
 1. Aeticle bug
