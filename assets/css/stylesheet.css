@@ -323,9 +323,9 @@ footer {
     .ps1-ps3-ps4-logo {
         display: flex;
         flex-direction: column;
-        width: auto;
+        width: 100%;
         height: auto;
-        margin: 50px;
+        padding: 50px;
     }
 
     .container-ps2-ps5 {
@@ -382,12 +382,14 @@ footer {
     }
 
     .ps1-ps3-ps4-logo img {
-
         width: 100%;
         height: auto;
     }
 
-
+    .ps2-ps5-logo img {
+        width: 100%;
+        height: auto;
+    }
 }
 
 @media screen and (max-width:475px) {
