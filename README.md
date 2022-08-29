@@ -2,7 +2,7 @@ A History of the PlayStation
 
 [View live project here](https://supersheep50.github.io/A-History-of-Playstation/)
 
-This website is designed to be an informational resource for PlayStation fans and newcomers alike. The site will be aimed at gamers and other folks who would love to learn more about the history of the PlayStation console as it quickly approaches its 30th anniversary. The website will chronicle each variation of the console and how it has changed over the years, from the PlayStation right up to the PlayStation 5.
+This website is designed to be an informational resource for PlayStation fans and newcomers alike. The site will be aimed at gamers and other folks who would love to learn more about the history of the PlayStation console as it quickly approaches its 30th anniversary. The website will chronicle each variation of the console and how it has changed over the years, from the PlayStation 1 right up to the PlayStation 5.
 
 Each section will also include some examples of the best selling games for each generation.
 
@@ -219,8 +219,6 @@ The project was deployed to GitHub Pages using the following steps...
 - Image for Elden Ring was found [here](https://www.reddit.com/r/Eldenring/comments/szt9d3/elden_ring_but_with_a_pretzel_superimposed_onto/)
 - Image for Spider-man was found [here](https://marvels-spider-man.fandom.com/wiki/Marvel%27s_Spider-Man:_Miles_Morales)
 - Image for Stray was found [here](https://en.wikipedia.org/wiki/Stray_%28video_game%29)
-
-
 
 
 

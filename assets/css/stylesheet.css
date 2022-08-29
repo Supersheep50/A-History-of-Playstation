@@ -239,7 +239,8 @@ footer {
 .copyright {
     font-size: 15px;
     text-align: center;
-    margin-bottom: 0;
+    padding: 20px;
+    margin: 0 auto;
 }
 
 /* PS2 & PS5 Styling */
@@ -403,6 +404,7 @@ footer {
 
     .nav-bar {
         letter-spacing: normal;
+        padding: 30px;
     }
 
     .nav-links {
