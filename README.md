@@ -199,14 +199,28 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Media
 - Image converting tool can be found [here](https://cloudconvert.com/avif-to-webp)
+- [Simple Image Resizer](https://www.simpleimageresizer.com/) was used to resize images
 - Image for PlayStation 1 was found [here](https://commons.wikimedia.org/wiki/File:PSX-Console-wController.jpg)
 - Image for PlayStation 2 was found [here](https://www.walmart.com/ip/Restored-Black-PlayStation-2-PS2-Fat-Console-Refurbished/776866870)
 - Image for PlayStation 3 was found [here](https://en.wikipedia.org/wiki/PlayStation_3)
 - Image for PlayStation 4 was found [here](https://www.eurogamer.net/digitalfoundry-2016-inside-playstation-4-pro-how-sony-made-a-4k-games-machine)
 - Image for PlayStation 5 was found [here](https://www.eurogamer.net/ps5-stock-where-to-buy-playstation-5)
-- Image for Gran Turismo was found [here] (https://www.mobygames.com/game/playstation/gran-turismo/cover-art/gameCoverId,32681/)
-- Image for Final Fantasy 7 was found [here] (https://www.mobygames.com/game/final-fantasy-vii/cover-art/gameCoverId,111355/)
-- Image for Gran Turismo 2 was found [here]
+- Image for Gran Turismo was found [here](https://www.mobygames.com/game/playstation/gran-turismo/cover-art/gameCoverId,32681/)
+- Image for Final Fantasy 7 was found [here](https://www.mobygames.com/game/final-fantasy-vii/cover-art/gameCoverId,111355/)
+- Image for Gran Turismo 2 was found [here](https://glitchwave.com/game/gran-turismo-2/)
+- Image for Grand Thefy Auto was found [here](https://www.imdb.com/title/tt0383385/)
+- Image for Metal Gear Solid 2 was found [here](https://en.wikipedia.org/wiki/Metal_Gear_Solid_2:_Sons_of_Liberty)
+- Image for Tekken 5 was found [here](https://en.wikipedia.org/wiki/Tekken_5)
+- Image for The Last of Us was found [here](https://en.wikipedia.org/wiki/The_Last_of_Us)
+- Image for Uncharted 2 was found [here](https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves)
+- Image for Modern Warfare was found [here](https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2)
+- Image for God of War was found [here](https://en.wikipedia.org/wiki/God_of_War_%282018_video_game%29)
+- Image for The Witcher 3 was found [here](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt)
+- Image for The Last of Us was 2 found [here](https://www.eneba.com/psn-the-last-of-us-part-ii-ps4-psn-key-europe)
+- Image for Elden Ring was found [here](https://www.reddit.com/r/Eldenring/comments/szt9d3/elden_ring_but_with_a_pretzel_superimposed_onto/)
+- Image for Spider-man was found [here](https://marvels-spider-man.fandom.com/wiki/Marvel%27s_Spider-Man:_Miles_Morales)
+- Image for Stray was found [here](https://en.wikipedia.org/wiki/Stray_%28video_game%29)
+
 
 
 
