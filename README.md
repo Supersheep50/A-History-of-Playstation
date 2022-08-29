@@ -182,24 +182,23 @@ The project was deployed to GitHub Pages using the following steps...
 
 ## Credits
 
-- Some code was adapted and modifed from the Code Institute Love Running Project I completed recently.
-- Image for Gran Turismo 1 logo can be found [here](https://strategywiki.org/wiki/Gran_Turismo)
-- Image for Final Fantasy 7 logo can be found [here](https://www.mobygames.com/game/final-fantasy-vii)
-- Image for PlayStation 2 can be found [here] (https://www.cbr.com/playstation-2-bestselling-console/)
-- Image for Tekken 5 can be found [here] (https://en.wikipedia.org/wiki/Tekken_5)
-
 ### Code
 
 - [W3 Schools](https://www.w3schools.com/cssref/css3_pr_flex.asp) for Flex property help.
-- 
+- [Stackoverflow](https://stackoverflow.com/) for helpful refreshers. 
+- Some code ideas were adapted and modifed from the Code Institute [Love Running Project](https://supersheep50.github.io/love-running/) I completed recently.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)for general debugging.
 
 ### Content
 - PlayStation console and best-selling videogame information found on [Wikipedia](https://www.wikipedia.org/)
+- [Code Institute Sampe Readme](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSSE_PAGPPF+2021_Q2/courseware/66cf361c769a41d496f5001fae6f9be7/3b5cd5dc8313462aa5975a3c9b9a1a3c/) for Readme layout. 
+- Best Selling Games content written by the developer. 
 
 
 ### Media
 - Image converting tool can be found [here](https://cloudconvert.com/avif-to-webp)
 - [Simple Image Resizer](https://www.simpleimageresizer.com/) was used to resize images
+- Image for PlayStation header can be found [here](https://wallpaper.dog/)
 - Image for PlayStation 1 was found [here](https://commons.wikimedia.org/wiki/File:PSX-Console-wController.jpg)
 - Image for PlayStation 2 was found [here](https://www.walmart.com/ip/Restored-Black-PlayStation-2-PS2-Fat-Console-Refurbished/776866870)
 - Image for PlayStation 3 was found [here](https://en.wikipedia.org/wiki/PlayStation_3)
@@ -226,3 +225,5 @@ The project was deployed to GitHub Pages using the following steps...
 
 
 ### Acknowledgements
+- I want to give a massive shoutout to my partner Steph. Her continous support and patient advice was super helpful throughout my project. 
+- My cat. 
