@@ -54,9 +54,9 @@ Each section will also include some examples of the best selling games for each 
 ## Features
 
 -   Responsive on all device sizes:
-    - Mobile: [PS1](assets/images/mobile-screenshot.png)| [PS2&PS3](assets/images/mobile-ps2-ps3-screenshot.png) | [PS4&PS5](assets/images/mobile-ps4-ps5-screenshot.png) 
-    - Tablet: [PS1](assets/images/tablet-screenshot.png)| [PS2&PS3](assets/images/tablet-ps2-ps3-screenshot.png) | [PS4&PS5](assets/images/tablet-ps4-ps5-screenshot.png) 
-    - Desktop:[PS1](assets/images/desktop-screenshot.png)| [PS2&PS3](assets/images/desktop-ps2-ps3-screenshot.png) | [PS4&PS5](assets/images/desktop-ps4-ps5-screenshot.png)
+    - Mobile: [PS1](assets/images/mobile-screenshot.png) | [PS2&PS3](assets/images/mobile-ps2-ps3-screenshot.png) | [PS4&PS5](assets/images/mobile-ps4-ps5-screenshot.png) 
+    - Tablet: [PS1](assets/images/tablet-screenshot.png) | [PS2&PS3](assets/images/tablet-ps2-ps3-screenshot.png) | [PS4&PS5](assets/images/tablet-ps4-ps5-screenshot.png) 
+    - Desktop: [PS1](assets/images/desktop-screenshot.png) | [PS2&PS3](assets/images/desktop-ps2-ps3-screenshot.png) | [PS4&PS5](assets/images/desktop-ps4-ps5-screenshot.png)
 
 -   Interactive elements:
     - Logo: Clicking the logo in the top left of each page will bring you back to the homepage. 
@@ -161,12 +161,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - PlayStation console images appeared stretched when testing on mobile. Width had been set to auto for the div the image was in and this was causing issues.
 - Originally had used float to position images. This caused major issues when it came to responivesness. Decided to use flex and re-write code. 
 - Images were of different sizes and the zoom effect was causing them to stretch off of the page. Resized images and used flex to position correctly.
-- 
-
 
 
 ### Known Bugs (Not Resolved)
-
+- My sign up form doesn't actually submit info because this was outside the scope of the project. 
 
 
 ## Deployment
@@ -185,25 +183,32 @@ The project was deployed to GitHub Pages using the following steps...
 ## Credits
 
 - Some code was adapted and modifed from the Code Institute Love Running Project I completed recently.
-- Image for PlayStation 1 was retrieved from [here](https://commons.wikimedia.org/wiki/File:PSX-Console-wController.jpg)
-- Introduction and best-selling videogame information found [here](https://en.wikipedia.org/wiki/PlayStation_(console))
-- Image converting tool can be found [here](https://cloudconvert.com/avif-to-webp)
 - Image for Gran Turismo 1 logo can be found [here](https://strategywiki.org/wiki/Gran_Turismo)
 - Image for Final Fantasy 7 logo can be found [here](https://www.mobygames.com/game/final-fantasy-vii)
 - Image for PlayStation 2 can be found [here] (https://www.cbr.com/playstation-2-bestselling-console/)
-- Playstation 2 Information and best selling games information can be found [here] (https://en.wikipedia.org/wiki/PlayStation_2)
 - Image for Tekken 5 can be found [here] (https://en.wikipedia.org/wiki/Tekken_5)
-- W3 Schools for Flex info and Mentor 
 
 ### Code
 
--   
+- [W3 Schools](https://www.w3schools.com/cssref/css3_pr_flex.asp) for Flex property help.
+- 
 
 ### Content
--  
+- PlayStation console and best-selling videogame information found on [Wikipedia](https://www.wikipedia.org/)
+
 
 ### Media
+- Image converting tool can be found [here](https://cloudconvert.com/avif-to-webp)
+- Image for PlayStation 1 was found [here](https://commons.wikimedia.org/wiki/File:PSX-Console-wController.jpg)
+- Image for PlayStation 2 was found [here](https://www.walmart.com/ip/Restored-Black-PlayStation-2-PS2-Fat-Console-Refurbished/776866870)
+- Image for PlayStation 3 was found [here](https://en.wikipedia.org/wiki/PlayStation_3)
+- Image for PlayStation 4 was found [here](https://www.eurogamer.net/digitalfoundry-2016-inside-playstation-4-pro-how-sony-made-a-4k-games-machine)
+- Image for PlayStation 5 was found [here](https://www.eurogamer.net/ps5-stock-where-to-buy-playstation-5)
+- Image for Gran Turismo was found [here] (https://www.mobygames.com/game/playstation/gran-turismo/cover-art/gameCoverId,32681/)
+- Image for Final Fantasy 7 was found [here] (https://www.mobygames.com/game/final-fantasy-vii/cover-art/gameCoverId,111355/)
+- Image for Gran Turismo 2 was found [here]
 
--   
+
+
 
 ### Acknowledgements
