@@ -225,3 +225,4 @@ The project was deployed to GitHub Pages using the following steps...
 ### Acknowledgements
 - I want to give a massive shoutout to my partner Steph. Her continous support and patient advice was super helpful throughout my project. 
 - My cat. 
+- My mentor AJ, espeicially for the advice around Flex! 
