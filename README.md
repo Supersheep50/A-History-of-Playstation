@@ -141,6 +141,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Further Testing
 
+    - The website was manually tested on an Iphone 12 XL, Iphone 13, Ipad Air and Macbook Pro.
+    - The website was manually tested on Google Chrome and Safari.
+    - The website was viewed in Developer tools at all settings of responsiveness. 
 
 ### Known Bugs (Resolved)
 1. Aeticle bug

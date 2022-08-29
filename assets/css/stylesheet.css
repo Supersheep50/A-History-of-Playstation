@@ -217,6 +217,7 @@ footer {
 
 .sign-up-button {
     background-color: yellow;
+    color: #1f1f1f;
 }
 
 /* Social Links */
@@ -361,8 +362,6 @@ footer {
     .game {
         width: 100%;
     }
-
-
 }
 
 @media screen and (max-width:550px) {
@@ -381,6 +380,12 @@ footer {
         text-align: center;
         font-size: small;
     }
+
+    .ps1-ps3-ps4-logo {
+        width: 100%;
+        height: auto;
+    }
+
 
 }
 
